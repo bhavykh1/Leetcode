@@ -7,4 +7,4 @@
 3. Longest Substring Without Repeating Characters: [LongestSubstringWithoutRepeatingCharacters.cpp](https://github.com/bhavykh1/Leetcode/blob/d2ae5a18d566301d6d847fba969db2f8614e2493/Problems/LongestSubstringWithoutRepeatingCharacters.cpp)
 
 ## Hard   
-5. Median of Two Sorted Arrays: [MedianofTwoSortedArrays.cpp](https://github.com/bhavykh1/Leetcode/blob/87a746212ca368da00e1177f50a4a3a1c72f8e07/Problems/MedianofTwoSortedArrays.cpp)
+4. Median of Two Sorted Arrays: [MedianofTwoSortedArrays.cpp](https://github.com/bhavykh1/Leetcode/blob/87a746212ca368da00e1177f50a4a3a1c72f8e07/Problems/MedianofTwoSortedArrays.cpp)
